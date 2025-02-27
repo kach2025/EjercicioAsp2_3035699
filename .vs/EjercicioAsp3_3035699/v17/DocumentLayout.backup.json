@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\asp2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|solutionrelative:asp2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|c:\\users\\mineducyt\\desktop\\practica 3 kevin\\ejercicioasp2_3035699\\asp2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|solutionrelative:asp2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\asp1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|solutionrelative:asp1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\asp1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC39E320-A9DE-4CE6-9D19-20345497715B}|EjercicioAsp3_3035699.csproj|solutionrelative:asp1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asp2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp2.aspx.cs",
+              "RelativeDocumentMoniker": "Asp2.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp2.aspx.cs",
+              "RelativeToolTip": "Asp2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:05:30.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asp2.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp2.aspx",
+              "RelativeDocumentMoniker": "Asp2.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp2.aspx",
+              "RelativeToolTip": "Asp2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T02:04:17.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asp1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp1.aspx.cs",
+              "RelativeDocumentMoniker": "Asp1.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp1.aspx.cs",
+              "RelativeToolTip": "Asp1.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:02:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asp1.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp1.aspx",
+              "RelativeDocumentMoniker": "Asp1.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICA 3 KEVIN\\EjercicioAsp2_3035699\\Asp1.aspx",
+              "RelativeToolTip": "Asp1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T01:59:43.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
